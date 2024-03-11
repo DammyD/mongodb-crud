@@ -29,9 +29,10 @@ This web application is built using Next.js and MongoDB, allowing users to perfo
 
 1. **Clone the repository:**
 
-`git clone https://github.com/your-username/nextjs-mongodb-crud.git`
+`git clone https://github.com/DammyD/mongodb-crud.git`
 
 2. **Install dependencies:**
+
 `cd mongodb-crud`
 
 `npm install`
